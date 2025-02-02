@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/serha/Documents/GitHub/TopDownGame/project/Content/background.png","C:/Users/serha/Documents/GitHub/TopDownGame/project/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",7803,202273,0.0844683
+"C:/Users/serha/Documents/GitHub/TopDownGame/project/Content/ball.png","C:/Users/serha/Documents/GitHub/TopDownGame/project/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.0986796
